@@ -3,10 +3,10 @@
 module.exports = {
   pathPrefix: process.env.PATH_PREFIX || '/',
   siteMetadata: {
-    siteTitle: 'Jopus Running',
+    siteTitle: 'Jopus Run',
     siteUrl: 'https://jopus.run',
     logo: 'https://s2.loli.net/2023/05/13/yDlWr8dwLAfhQcg.jpg',
-    description: 'Jopus Running',
+    description: 'Jopus Run',
     navLinks: [
       {
         name: 'Blog',
