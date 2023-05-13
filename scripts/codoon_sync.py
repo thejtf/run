@@ -65,7 +65,7 @@ TYPE_DICT = {
 IS_ONLY_RUN = True
 
 # If your points need trans from gcj02 to wgs84 coordinate which use by Mappbox
-TRANS_GCJ02_TO_WGS84 = False
+TRANS_GCJ02_TO_WGS84 = True
 # trans the coordinate data until the TRANS_END_DATE, work with TRANS_GCJ02_TO_WGS84 = True
 TRANS_END_DATE = "2014-03-24"
 
